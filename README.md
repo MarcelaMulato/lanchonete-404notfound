@@ -1,4 +1,4 @@
-# Projeto Lanchonete Universitária - Grupo 404 Not Found
+# 🍕 Projeto Lanchonete Universitária - Grupo 404 Not Found
 
 A **Lanchonete Universitária** deseja informatizar parte do seu atendimento. Atualmente, os pedidos são feitos em papel e o controle dos produtos é manual, o que gera erros e demora no processo.
 
